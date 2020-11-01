@@ -92,6 +92,7 @@ namespace schleife
                 zahl2 /= 10;
             }
             Console.WriteLine("Das Produkt der ersten und letzten Ziffer von " + zahl + " ist " + ersteZiffer + "*" + zahl2 + "= " + (zahl2 * ersteZiffer));
+            Console.WriteLine("DENEME");
 
 
 

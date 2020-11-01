@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eyupc\\OneDrive\\Desktop\\Th Projeler\\praktikum Aufgaben\\2.Aufgabe schleife\\schleife\\schleife\\schleife.csproj": {}
+    "C:\\Users\\eyupc\\OneDrive\\Desktop\\gitHub\\Schleife-und-Zahlen\\schleife\\schleife\\schleife.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eyupc\\OneDrive\\Desktop\\Th Projeler\\praktikum Aufgaben\\2.Aufgabe schleife\\schleife\\schleife\\schleife.csproj": {
+    "C:\\Users\\eyupc\\OneDrive\\Desktop\\gitHub\\Schleife-und-Zahlen\\schleife\\schleife\\schleife.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyupc\\OneDrive\\Desktop\\Th Projeler\\praktikum Aufgaben\\2.Aufgabe schleife\\schleife\\schleife\\schleife.csproj",
+        "projectUniqueName": "C:\\Users\\eyupc\\OneDrive\\Desktop\\gitHub\\Schleife-und-Zahlen\\schleife\\schleife\\schleife.csproj",
         "projectName": "schleife",
-        "projectPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\Th Projeler\\praktikum Aufgaben\\2.Aufgabe schleife\\schleife\\schleife\\schleife.csproj",
+        "projectPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\gitHub\\Schleife-und-Zahlen\\schleife\\schleife\\schleife.csproj",
         "packagesPath": "C:\\Users\\eyupc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\Th Projeler\\praktikum Aufgaben\\2.Aufgabe schleife\\schleife\\schleife\\obj\\",
+        "outputPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\gitHub\\Schleife-und-Zahlen\\schleife\\schleife\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyupc\\AppData\\Roaming\\NuGet\\NuGet.Config",
